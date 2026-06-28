@@ -1,25 +1,44 @@
 # CODESOFT
-# Simple Calculator
+# CODSOFT Python Programming Internship
 
-## Description
-This is a command-line calculator developed using Python. It performs basic arithmetic operations.
+Welcome to my Python Programming Internship repository.
 
-## Features
+This repository contains the projects I completed as part of the **CodSoft Python Programming Internship**.
+
+## Projects
+
+### 1. Simple Calculator
+A command-line calculator that performs:
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Input validation
-- Division by zero handling
+
+### 2. Password Generator
+A Python application that generates secure and random passwords based on user-defined length and complexity.
+
+### 3. To-Do List
+A command-line application that allows users to:
+- Add Tasks
+- View Tasks
+- Update Tasks
+- Delete Tasks
 
 ## Technologies Used
 - Python 3
 
-## How to Run
+## Repository Structure
 
-```bash
-python calculator.py
+```
+CODSOFT/
+│
+├── Calculator/
+├── Password Generator/
+├── To-Do List/
 ```
 
 ## Author
-Vejandla Mukthesh Kumar
+
+**Vejandla Mukthesh Kumar**
+
+Thank you for visiting my repository.
